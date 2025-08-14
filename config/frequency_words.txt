@@ -1,70 +1,94 @@
+AI
+人工智能
+chatgpt
+openai
+claude
+Anthropic
 DeepSeek
-梁文锋
+Gemini
+deepmind
+sora
++技术
++研发
++应用
+!gai
+!广告
+!培训
+!课程
 
 华为
 鸿蒙
 HarmonyOS
 任正非
++发布
++新闻
++动态
+!谣言
+!传闻
 
 比亚迪
 王传福
++发布
++新闻
++动态
 
 大疆
 DJI
++发布
++新闻
++新品
 
 宇树
 王兴兴
++发布
++新闻
 
 智元
 灵犀
 稚晖君
 彭志辉
-
++发布
++新闻
 
 
 京东
 刘强东
++发布
++新闻
 
 字节
-bytedance
+ByteDance
 张一鸣
++发布
++新闻
 
 特斯拉
 马斯克
++新闻
++产品
 
 微软
 Microsoft
++新闻
++发布
 
 英伟达
 NVIDIA
 黄仁勋
++新品
++发布
 
 AMD
++新品
++发布
 
 谷歌
-google
-gemini
-deepmind
-
-chatgpt
-openai
-sora
-
-claude
-Anthropic
-
-iphone
-ipad
-mac
-ios
-
-ai
-!gai
-人工智能
-
-自动驾驶
-
-机器人
+Google
+Gemini
+DeepMind
++技术
++新闻
++发布
 
 国产
 中国
@@ -73,21 +97,33 @@ ai
 日本
 韩国
 
-芯片
-光刻机
-
 科技
-
 核能
-
 水电站
 雅鲁藏布江
-
 新质生产力
++政策
++技术
++发展
 
-月球
-登月
-火星
-宇宙
-飞船
-航空
+网络安全
+信息安全
++技术
+
+黑客
+钓鱼
+勒索软件
+DDoS
++攻击
+!误报
+!广告
+
+防火墙
+漏洞
+加密
+隐私
+合规
++政策
+!市场
+!分析
+
